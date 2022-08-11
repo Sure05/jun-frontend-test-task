@@ -1,0 +1,58 @@
+{
+	"data" : {
+		"light": {
+			"id": "T_001",
+			"name": "Light",
+			"field": {
+				"text": "#FFFFFF",
+				"background": "#303030"
+			},
+			"colors": {
+				"body": "#FFFFFF",
+				"text": "#000000",
+				"modal": {
+					"text": "#FFFFFF",
+					"background": "#000000"
+				},
+				"button": {
+					"text": "#FFFFFF",
+					"background": "#000000"
+				},
+				"white": "#FFFFFF",
+				"gray": "#303030",
+				"link": {
+					"text": "teal",
+					"opacity": 1
+				}
+			},
+			"font": "Kufam"
+		},
+		"dark": {
+			"id": "T_002",
+			"name": "Dark",
+			"field": {
+				"text": "#FFFFFF",
+				"background": "#303030"
+			},
+			"colors": {
+				"body": "#121212",
+				"text": "#FFFFFF",
+				"white": "#FFFFFF",
+				"gray": "#303030",
+				"modal": {
+					"text": "#000000",
+					"background": "#ffffff"
+				},
+				"button": {
+					"text": "#000000",
+					"background": "#FFFFFF"
+				},
+				"link": {
+					"text": "teal",
+					"opacity": 1
+				}
+			},
+			"font": "Kufam"
+		}
+	}
+}
